@@ -12,7 +12,7 @@ This project provides a simple proxy server for the OpenAI API using Node.js and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/openai-proxy.git
+   git clone https://github.com/yinchangbo/openai-proxy.git
    cd openai-proxy
    ```
 
